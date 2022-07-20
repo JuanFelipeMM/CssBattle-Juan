@@ -1,0 +1,45 @@
+<div class="q">
+  <div class="c1">
+  	<div class="c2"/>
+  </div>
+</div>
+
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #6592CF;
+  }
+  .q{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    overflow: hidden;      
+	right: 50px;
+    bottom: 75px;
+    height: 150px;
+    width: 300px;
+    background: #243D83;
+  }
+  .c2{
+    position: absolute;
+    top: 50px;
+    right: 50px;       
+    height: 50px;
+    width: 50px;
+    border: 50px solid;
+    border-color: #243D83;
+    border-radius: 50%;
+    background: #EEB850;
+  }
+  .c1{ 
+    position: absolute;
+    top: -50px;
+    right: 25px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background: #6592CF;
+  }
+</style>
