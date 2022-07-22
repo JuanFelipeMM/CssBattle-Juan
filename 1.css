@@ -1,14 +1,13 @@
-<div><div id="a"/></div>
+<div id="a"/>
 <style>
   body {
     background: #5d3a3a;
+    margin: 0;
   }
   #a{
-    position: relative;
-    right: 8px;
-    top: -8px;
-    width: 200px;
-    height: 200px;
+    position: fixed;
+    width: 50%;
+    height: 66.5%;
     background: #b5e0ba;
   }
 </style>
