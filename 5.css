@@ -1,0 +1,34 @@
+<div id="a"/>
+<div id="b"/>
+<div id="c"/>
+<style>
+  body{
+    background: #0B2429;
+  }
+  *{
+    position: fixed;
+    width: 120px;
+    height: 120px;
+  }
+  #a, #c{
+    background:#F3AC3C;
+  }
+  #b, #c{
+    border-radius: 50% 0% 50% 50%;
+  }
+  #a{
+    border-radius: 50%;
+    top: 10%;
+    left: 50%;
+  }
+  #b{
+    background:  #998235;
+    top: 30%;
+    left: 35%;
+  }
+  #c{
+    top: 50%;
+    left: 20%;
+  }
+</style>
+
