@@ -1,0 +1,67 @@
+<i id="a">
+<i id="b">
+<i id="d">
+<i id="f">
+<i id="h">
+<i id="i">
+<i id="c">
+<i id="e">
+<i id="g">
+<style>
+  body{
+    background: #6592CF;
+  }
+  *{position:fixed;}
+  #a,#b,#c,#d,#e,#f,#g,#h{
+  	width: 5.1%;
+    height: 110px;
+    border-radius: 50px 50px 50px 50px;
+  }
+  #a,#b,#d,#f,#h{
+    background:#060F55;
+  }
+  #c,#e,#g{
+    background:#6592CF;
+  }
+  #a{
+    left: 47.5%;
+    top: 80%;
+  }
+  #b{
+    left: 32.5%;
+    top: 16.5%;
+  }
+  #c{
+    left: 37.5%;
+    top: 16.5%;
+  }
+  #d{
+    left: 42.5%;
+    top: 16.5%;
+  }
+  #e{
+    left: 47.5%;
+    top: 16.5%;
+  }
+  #f{
+    left: 52.5%;
+    top: 16.5%;
+  }
+  #g{
+    left: 57.5%;
+    top: 16.5%;
+  }
+  #h{
+    left: 62.5%;
+    top: 16.5%;
+  }
+  #i{
+    background: #060F55;
+    width:35%;
+    height:35%;
+    border-radius: 0 0 150px 150px;
+    left: 32.5%;
+    top: 48.4%;
+  }
+</style>
+
