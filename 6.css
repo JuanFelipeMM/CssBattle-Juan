@@ -1,0 +1,15 @@
+<i>
+<style>
+  body{
+    background:#E3516E
+  }
+  i{
+    position:fixed;
+    top:50px;
+    left:100px;
+    border:100px solid;
+    border-color:#51B5A9 #FADE8B #E3516E #F7F3D7;
+    border-radius:50%;
+    transform:rotate(-45deg)
+  }
+</style>
