@@ -1,0 +1,16 @@
+<div></div>
+<style>
+  body{
+    display: flex;
+    background:#0B2429;
+  }
+  div {
+    position: fixed;
+    width: 205px;
+    height: 205px;
+    background: #F3AC3C;
+    top: -105px;
+    left: -104px;
+    transform: rotate(45deg);
+  }
+</style>
