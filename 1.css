@@ -1,13 +1,11 @@
-<div id="a"/>
+<i>
 <style>
-  body {
-    background: #5d3a3a;
-    margin: 0;
-  }
-  #a{
-    position: fixed;
-    width: 50%;
-    height: 66.5%;
-    background: #b5e0ba;
-  }
+	body{
+		background:#5d3a3a;
+		margin: 0
+		}
+	i{
+		position:fixed;
+		border:100px solid #b5e0ba
+		}
 </style>
