@@ -1,0 +1,34 @@
+<i id="a">
+<i id="b"> 
+<i id="c">
+<i id="d">
+<style>
+  body {
+    background:#222730;
+    margin: auto;
+  }
+  *{position: fixed}
+  #a{
+    width: 100%;
+    height: 50%;
+    top: 25%;
+    background: #4CAAB3;
+  }
+  #b{
+    border: 125px solid #222730;
+    transform: rotate(45deg);
+    top: 25px;
+    left:75px;
+  }
+  #c{
+    border:75px solid #4CAAB3;
+    top:-75px;
+   	left:-75px;
+  }
+  #d{
+    border:25px solid #393E46;
+    border-radius: 50%;
+    top:-25px;
+   	left:-25px;
+  }
+</style>
